@@ -1,0 +1,11 @@
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\bin\Debug\netcoreapp2.0\halloween1.deps.json
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\bin\Debug\netcoreapp2.0\halloween1.runtimeconfig.json
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\bin\Debug\netcoreapp2.0\halloween1.runtimeconfig.dev.json
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\bin\Debug\netcoreapp2.0\halloween1.dll
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\bin\Debug\netcoreapp2.0\halloween1.pdb
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\obj\Debug\netcoreapp2.0\halloween1.csprojResolveAssemblyReference.cache
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\obj\Debug\netcoreapp2.0\halloween1.csproj.CoreCompileInputs.cache
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\obj\Debug\netcoreapp2.0\halloween1.AssemblyInfoInputs.cache
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\obj\Debug\netcoreapp2.0\halloween1.AssemblyInfo.cs
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\obj\Debug\netcoreapp2.0\halloween1.dll
+c:\users\rocie\documents\visual studio 2017\Projects\egreetingcore1\halloween1\obj\Debug\netcoreapp2.0\halloween1.pdb
